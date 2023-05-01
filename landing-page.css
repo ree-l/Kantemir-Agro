@@ -372,6 +372,7 @@
   }
   .landing-page-text14 {
     align-self: flex-start;
+    padding-bottom: var(--dl-space-space-unit);
   }
   .landing-page-text24 {
     align-self: flex-start;
@@ -395,6 +396,8 @@
   }
   .landing-page-text14 {
     align-self: flex-start;
+    line-height: 1.55;
+    padding-bottom: var(--dl-space-space-unit);
   }
   .landing-page-text24 {
     align-self: flex-start;
